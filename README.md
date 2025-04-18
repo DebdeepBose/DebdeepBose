@@ -78,11 +78,9 @@
 
 ---
 
-## 📊 GitHub Contributions
+## 🟢 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debdeepbose&show_icons=true&count_private=true&hide_title=true" width="50%"/>
-</p>
+![GitHub Activity Graph](https://github.com/debdeepbose/debdeepbose/blob/main/github-contribution-grid-snake.svg)
 
 
 ---
