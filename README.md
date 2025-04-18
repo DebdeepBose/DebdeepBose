@@ -63,6 +63,12 @@
 
 ---
 
+## 💻 GeeksforGeeks Stats
+
+[![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-Stats-orange?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/DebdeepB03/)
+
+---
+
 ## 📸 GitHub in Action
 
 <p align="center">
