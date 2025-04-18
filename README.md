@@ -1,22 +1,12 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40"> 
-  Hi! I'm <span style="color: #00ff88; text-shadow: 0 0 10px #00ff88, 0 0 20px #0088ff;">Debdeep Bose</span>
-  <img src="https://media.giphy.com/media/3o7aDcrfq5U7GQ7Mfu/giphy.gif" width="40">
-</h1>
+<h1 align="center">Hi! I'm Debdeep Bose </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=🧠+Self-taught+Dev;💻+Fullstack+Enthusiast;🧩+DSA+Addict;🌐+Building+RoomMate+Finder" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <i>✨ "I turn <img src="https://media.giphy.com/media/3o6Zt6KHxJT1H5YlHW/giphy.gif" width="30"> and <img src="https://media.giphy.com/media/l0HU7JI8Af0kzXhUY/giphy.gif" width="30"> into <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="40">" ✨</i>
+  🧠 Self-taught Dev | 💻 Fullstack Enthusiast | 🧩 DSA Addict | 🌐 Currently building RoomMate Finder<br>
+  <i>“I turn caffeine and curiosity into code.”</i>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=debdeepbose&label=Profile+Views&color=00ff88&style=flat" alt="profile views" /> 
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="100">
 </p>
 
 ---
