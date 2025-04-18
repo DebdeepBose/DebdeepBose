@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Debdeep Bose 🚀</h1>
+<h1 align="center">Hello! I'm Debdeep Bose </h1>
 
 <p align="center">
   Self-driven Software Developer from West Bengal, India 🇮🇳 <br>
