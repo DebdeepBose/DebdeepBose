@@ -65,7 +65,7 @@
 
 ## 💻 GeeksforGeeks Stats
 
-[![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-Stats-orange?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/DebdeepB03/)
+[![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-Stats-orange?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/delldebdeee06n/)
 
 ---
 
