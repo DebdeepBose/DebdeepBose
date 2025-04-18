@@ -46,6 +46,25 @@
 
 ---
 
+## 📊 Most Used Language This Month
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debdeepbose&layout=compact&theme=radical" width="50%"/>
+</p>
+
+---
+
+## 💻 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/debdeepbose/">
+    <img src="https://leetcode.card.workers.dev/?username=debdeepbose" width="50%" />
+  </a>
+</p>
+
+---
+
+
 ## 📸 GitHub in Action
 
 <p align="center">
