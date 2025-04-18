@@ -57,8 +57,8 @@
 ## 💻 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/debdeepbose/">
-    <img src="https://leetcode.card.workers.dev/?username=DebdeepB03" width="50%" />
+  <a href="https://leetcode.com/DebdeepB03/">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=DebdeepB03&theme=dark" width="50%" />
   </a>
 </p>
 
