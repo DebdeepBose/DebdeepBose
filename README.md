@@ -1,14 +1,12 @@
-<h1 align="center" style="color: #ff6347; text-shadow: 2px 2px 10px rgba(255, 99, 71, 0.6);">
-  Hi! I'm <span style="color: #00bfff;">Debdeep Bose</span>
-</h1>
+<h1 align="center">Hi! I'm Debdeep Bose </h1>
 
-<p align="center" style="font-size: 1.2rem; font-family: 'Arial', sans-serif; color: #fff; background: linear-gradient(45deg, #ff6347, #00bfff); -webkit-background-clip: text; background-clip: text;">
+<p align="center">
   🧠 Self-taught Dev | 💻 Fullstack Enthusiast | 🧩 DSA Addict | 🌐 Currently building RoomMate Finder<br>
-  <i style="font-style: italic;">“I turn caffeine and curiosity into code.”</i>
+  <i>“I turn caffeine and curiosity into code.”</i>
 </p>
 
 <p align="center">
-  ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
 
