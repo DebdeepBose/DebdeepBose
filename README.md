@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm <span style="color: #00bfff;">Debdeep Bose</span></h1>
+<h1 align="center"> Hi! I'm Debdeep Bose</h1>
 
 <p align="center">
   🧠 Self-taught Dev | 💻 Fullstack Enthusiast | 🧩 DSA Addict | 🌐 Currently building RoomMate Finder<br>
