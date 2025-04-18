@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/debdeepbose/">
-    <img src="https://leetcode.card.workers.dev/?username=debdeepbose" width="50%" />
+    <img src="https://leetcode.card.workers.dev/?username=Debdeep_Bose" width="50%" />
   </a>
 </p>
 
