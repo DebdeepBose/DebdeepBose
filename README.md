@@ -1,15 +1,13 @@
 <h1 align="center"> Hi! I'm Debdeep Bose</h1>
 
 <p align="center">
-  🧠 Self-taught Dev | 💻 Fullstack Enthusiast | 🧩 DSA Addict | 🌐 Currently building RoomMate Finder<br>
+  🧠 DSA Enthusiast | 💻 Frontend Developer | 🧩 Always Learning | 🌐 Currently building RoomMate Finder<br>
   <i>“I turn caffeine and curiosity into code.”</i>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
-
-
 
 ---
 
@@ -21,12 +19,12 @@
 
 ---
 
-## 🚀 What I'm Currently Up To
+## 🚀 What I'm Currently Focused On
 
-- 🧠 Grinding Striver's A2Z DSA Sheet → `Goal: Complete by December 1, 2025`
-- 🧩 Mastering JavaScript + React + Tailwind
-- 🏗️ Designing UI & Frontend for RoomMate Finder Website
-- 🧪 Planning to dive into Backend APIs, WebSockets & Auth
+- 🧠 **Mastering DSA** → `Goal: Solve all problems from Striver's A2Z DSA Sheet by December 1, 2025`
+- 💻 **Frontend Development** → Mastering **React**, **JavaScript**, **Tailwind**, and **Next.js**
+- 🏗️ Designing UI & Frontend for **RoomMate Finder Website**
+- 🧪 Exploring **Backend** with **Node.js**, **APIs**, **WebSockets**, and **Authentication**
 
 ---
 
@@ -64,7 +62,6 @@
 </p>
 
 ---
-
 
 ## 📸 GitHub in Action
 
