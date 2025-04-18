@@ -14,16 +14,16 @@
 ## 🧰 Tech Stack I Use Everyday
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,,html,css,react,tailwind,nextjs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,tailwind,nextjs,mysql,git,github,vscode,intelij" />
 </p>
 
 ---
 
 ## 🚀 What I'm Currently Up To
 
-- 🧠 Grinding Striver's A2Z DSA Sheet → `Goal: Complete by July 1, 2025`
+- 🧠 Grinding Striver's A2Z DSA Sheet → `Goal: Complete by December 1, 2025`
 - 🧩 Mastering JavaScript + React + Tailwind
-- 🏗️ Designing UI & Frontend for RoomMate Finder App
+- 🏗️ Designing UI & Frontend for RoomMate Finder Website
 - 🧪 Planning to dive into Backend APIs, WebSockets & Auth
 
 ---
@@ -42,7 +42,7 @@
 
 | 🧠 Languages | 🌐 Frontend | ⚙️ Backend | 🗃️ Database | 🛠️ Tools |
 |--------------|-------------|------------|-------------|-----------|
-| C++, Java, JavaScript, Python | HTML5, CSS3, React, Tailwind | Node.js, Express | MongoDB, MySQL | Git, GitHub, VS Code, Netlify |
+| C++, Java, JavaScript | HTML5, CSS3, React, Tailwind | Node.js (Basics) | MySQL | Git, GitHub, VS Code|
 
 ---
 
@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/debdeepbose"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dbworkofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/debdeepbose"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
