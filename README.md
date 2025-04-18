@@ -1,13 +1,39 @@
-<h1 align="center">Hi! I'm Debdeep Bose </h1>
+<h1 align="center" style="font-size: 3rem; color: #ff6347; text-shadow: 2px 2px 10px rgba(255, 99, 71, 0.6); animation: glow 1.5s ease-in-out infinite alternate;">
+  Hi! I'm <span style="color: #00bfff;">Debdeep Bose</span>
+</h1>
 
-<p align="center">
+<p align="center" style="font-size: 1.2rem; font-family: 'Arial', sans-serif; color: #fff; background: linear-gradient(45deg, #ff6347, #00bfff); -webkit-background-clip: text; background-clip: text; animation: pulse 2s infinite;">
   🧠 Self-taught Dev | 💻 Fullstack Enthusiast | 🧩 DSA Addict | 🌐 Currently building RoomMate Finder<br>
-  <i>“I turn caffeine and curiosity into code.”</i>
+  <i style="font-style: italic;">“I turn caffeine and curiosity into code.”</i>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius: 50%; border: 4px solid #ff6347; box-shadow: 0 0 15px rgba(255, 99, 71, 0.8);" />
 </p>
+
+<style>
+  @keyframes glow {
+    0% {
+      text-shadow: 2px 2px 10px rgba(255, 99, 71, 0.6), 0 0 20px #ff6347, 0 0 30px #ff6347;
+    }
+    100% {
+      text-shadow: 2px 2px 10px rgba(255, 99, 71, 1), 0 0 20px #ff6347, 0 0 30px #ff6347;
+    }
+  }
+
+  @keyframes pulse {
+    0% {
+      background: linear-gradient(45deg, #ff6347, #00bfff);
+    }
+    50% {
+      background: linear-gradient(45deg, #00bfff, #ff6347);
+    }
+    100% {
+      background: linear-gradient(45deg, #ff6347, #00bfff);
+    }
+  }
+</style>
+
 
 ---
 
