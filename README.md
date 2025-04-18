@@ -14,7 +14,7 @@
 ## 🧰 Tech Stack I Use Everyday
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,python,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,,html,css,react,tailwind,nextjs,mysql,git,github,vscode" />
 </p>
 
 ---
