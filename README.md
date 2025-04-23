@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! I'm Debdeep Bose</h1>
 
 <p align="center">
-  🧠 DSA Enthusiast | 💻 Frontend Developer | 🧩 Always Learning | 🌐 Currently building RoomMate Finder<br>
+  🧠 DSA Enthusiast | 💻 Frontend Developer | 🧩 Always Learning | 🌐 Currently building SeekSpot<br>
   <i>“I turn caffeine and curiosity into code.”</i>
 </p>
 
