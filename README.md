@@ -55,11 +55,9 @@
 ---
 
 ## 💻 LeetCode Stats
-<p align="center">
-  <a href="https://leetcode.com/DebdeepB03/">
-    <img src="https://leetcard.jacoblincool.dev/DebdeepB03?theme=dark&font=Roboto" width="50%" />
-  </a>
-</p>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/DebdeepB03?theme=dark&font=Roboto)](https://leetcode.com/DebdeepB03/)
+
 
 
 ---
