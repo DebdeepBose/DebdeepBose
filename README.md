@@ -23,7 +23,7 @@
 
 - 🧠 **Mastering DSA** → `Goal: Solve all problems from Striver's A2Z DSA Sheet by December 1, 2025`
 - 💻 **Frontend Development** → Mastering **React**, **JavaScript**, **Tailwind**, and **Next.js**
-- 🏗️ Designing UI & Frontend for **RoomMate Finder Website**
+- 🏗️ Designing UI & Frontend for **Next Project**
 - 🧪 Exploring **Backend** with **Node.js**, **APIs**, **WebSockets**, and **Authentication**
 
 ---
