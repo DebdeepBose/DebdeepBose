@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! I'm Debdeep Bose</h1>
 
 <p align="center">
-  🧠 DSA Enthusiast | 💻 Frontend Developer | 🧩 Always Learning | 🌐 Currently building SeekSpot<br>
+  🧠 DSA Enthusiast | 💻 Frontend Developer | 🧩 Always Learning | 🌐 Currently building ShadeSeek<br>
   <i>“I turn caffeine and curiosity into code.”</i>
 </p>
 
@@ -21,7 +21,7 @@
 
 ## 🚀 What I'm Currently Focused On
 
-- 🧠 **Mastering DSA** → `Goal: Solve all problems from Striver's A2Z DSA Sheet by December 1, 2025`
+- 🧠 **Trying To Master DSA**
 - 💻 **Frontend Development** → Mastering **React**, **JavaScript**, **Tailwind**, and **Next.js**
 - 🏗️ Designing UI & Frontend for **Next Project**
 - 🧪 Exploring **Backend** with **Node.js**, **APIs**, **WebSockets**, and **Authentication**
