@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" height="500" alt="Dark Coding Banner" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" height="600" alt="Dark Coding Banner" />
 </p>
 
 <h1 align="center"> Hi! I'm Debdeep Bose 👋</h1>
