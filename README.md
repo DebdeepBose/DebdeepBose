@@ -1,39 +1,30 @@
-<h1 align="center"> Hi! I'm Debdeep Bose</h1>
+<h1 align="center"> Hi! I'm Debdeep Bose 👋</h1>
+<h3 align="center">DSA Enthusiast | Frontend Developer | Curious Coder</h3>
 
 <p align="center">
-  🧠 DSA Enthusiast | 💻 Frontend Developer | 🧩 Always Learning | 🌐 Currently building ShadeSeek<br>
+  🧠 DSA Lover • 💻 Frontend Crafter • 🧩 Always Exploring • 🌐 Building ShadeSeek<br>
   <i>“I turn caffeine and curiosity into code.”</i>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</p>
-
----
-
-## 🧰 Tech Stack I Use Everyday
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,tailwind,nextjs,mysql,git,github,vscode,intelij" />
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
 </p>
 
 ---
 
 ## 🚀 What I'm Currently Focused On
 
-- 🧠 **Trying To Master DSA**
-- 💻 **Frontend Development** → Mastering **React**, **JavaScript**, **Tailwind**, and **Next.js**
-- 🏗️ Designing UI & Frontend for **Next Project**
-- 🧪 Exploring **Backend** with **Node.js**, **APIs**, **WebSockets**, and **Authentication**
+- 🧠 Mastering Data Structures & Algorithms
+- ⚛️ Frontend Dev → React, Tailwind, JavaScript, Next.js
+- 🧪 Exploring Backend → Node.js, REST APIs, Auth, WebSockets
+- 🎨 Designing UI for my latest project: **ShadeSeek**
 
 ---
 
-## 🔥 A Day in My Developer Life
+## 🧰 Tech Stack I Use Everyday
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
-  <br/>
-  <i>"Eat → Code → Debug → Repeat."</i>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,tailwind,nextjs,mysql,git,github,vscode,intellij" />
 </p>
 
 ---
@@ -42,7 +33,17 @@
 
 | 🧠 Languages | 🌐 Frontend | ⚙️ Backend | 🗃️ Database | 🛠️ Tools |
 |--------------|-------------|------------|-------------|-----------|
-| C++, Java, JavaScript | HTML5, CSS3, React, Tailwind | Node.js (Basics) | MySQL | Git, GitHub, VS Code|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+
+---
+
+## 🔥 A Day in My Developer Life
+
+<p align="center">
+  <img src="https://media.giphy.com/media/YRtLgsajXrz1FNJ6oy/giphy.gif" width="300" />
+  <br/>
+  <i>"Eat → Code → Debug → Repeat."</i>
+</p>
 
 ---
 
@@ -57,8 +58,6 @@
 ## 💻 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/DebdeepB03?theme=dark&font=Roboto)](https://leetcode.com/DebdeepB03/)
-
-
 
 ---
 
@@ -88,7 +87,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250" />
   <br/><br/>
   <i>“Code is my playground. I’m just here to build cool stuff.”</i>
 </p>
