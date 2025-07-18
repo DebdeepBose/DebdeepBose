@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" alt="Dark Coding Banner" />
+</p>
+
 <h1 align="center"> Hi! I'm Debdeep Bose 👋</h1>
 <h3 align="center">DSA Enthusiast | Frontend Developer | Curious Coder</h3>
 
