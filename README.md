@@ -87,7 +87,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="250" />
   <br/><br/>
   <i>“Code is my playground. I’m just here to build cool stuff.”</i>
 </p>
