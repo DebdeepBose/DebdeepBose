@@ -87,7 +87,7 @@
 ---
 
 <p align="center">
-  <img src="https://gifdb.com/gif/animated-angry-man-coding-u40xyqr26qyez70f.html" width="250" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250" />
   <br/><br/>
   <i>“Code is my playground. I’m just here to build cool stuff.”</i>
 </p>
