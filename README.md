@@ -56,8 +56,10 @@
 ## 📊 Most Used Language This Month
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debdeepbose&layout=compact&theme=radical" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=debdeepbose&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debdeepbose&theme=radical" width="47%"/>
 </p>
+
 
 ---
 
@@ -76,8 +78,8 @@
 ## 📸 GitHub in Action
 
 <p align="center">
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=debdeepbose&show_icons=true&theme=radical)](https://github.com/debdeepbose)
-  [![GitHub Streak](https://readme-streak-stats-eight.vercel.app?user=debdeepbose&theme=radical)](https://github.com/debdeepbose)
+  <img src="https://github-readme-stats.vercel.app/api?username=debdeepbose&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debdeepbose&theme=radical" width="47%"/>
 </p>
 
 ---
