@@ -56,7 +56,7 @@
 ## 📊 Most Used Language This Month
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debdeepbose&layout=compact&theme=radical&hide_progress=true" width="50%"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=debdeepbose&layout=compact&theme=radical" width="50%"/>
 </p>
 
 ---
