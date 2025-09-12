@@ -21,9 +21,9 @@
 ## 🚀 What I'm Currently Focused On
 
 - 🧠 Mastering Data Structures & Algorithms
-- ⚛️ Frontend Dev → React, Tailwind, JavaScript, Next.js
+- ⚛️ Frontend Dev → React, Tailwind, JavaScript
 - 🧪 Exploring Backend → Node.js, REST APIs, Auth, WebSockets
-- 🎨 Designing UI for my latest project: **ShadeSeek**
+- 🎨 Learning TS and Exploring Next.js
 
 ---
 
