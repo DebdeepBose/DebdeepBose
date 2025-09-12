@@ -8,7 +8,7 @@
 <h3 align="center">DSA Enthusiast | Frontend Developer | Curious Coder</h3>
 
 <p align="center">
-  🧠 DSA Lover • 💻 Frontend Crafter • 🧩 Always Exploring 
+  🧠 DSA Lover • 💻 Frontend Crafter • 🧩 Always Exploring  
   <i>“I turn caffeine and curiosity into code.”</i>
 </p>
 
