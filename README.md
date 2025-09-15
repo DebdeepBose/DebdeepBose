@@ -70,7 +70,7 @@
 
 ## 💻 CSES Stats
 
-[![CSES Badge](https://img.shields.io/badge/CSES-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://cses.fi/user/367441)
+[![CSES Badge](https://img.shields.io/badge/CSES-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://cses.fi/user/367508)
 
 ---
 
