@@ -67,15 +67,9 @@
 
 ---
 
-## 💻 CSES Stats
+## 💻 CSES Stats 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CSES-Solved%20Problems-150%2B-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CSES Problems Solved"/>
-  <br/><br/>
-  <a href="https://cses.fi/user/367441/">
-    <img src="https://img.shields.io/badge/View%20Profile-CapitalD-green?style=for-the-badge"/>
-  </a>
-</p>
+[![CSES Badge](https://img.shields.io/badge/CSES-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://cses.fi/user/367508) 
 
 ---
 
