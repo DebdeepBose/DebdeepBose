@@ -67,6 +67,15 @@
 
 ---
 
+---
+
+## 💻 CSES Stats
+
+[![CSES Badge](https://img.shields.io/badge/CSES-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://cses.fi/user/CapitalD)
+
+---
+
+
 ## 💻 GeeksforGeeks Stats
 
 [![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-Stats-orange?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/delldebdeee06n/)
