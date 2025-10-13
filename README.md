@@ -92,7 +92,7 @@
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/debdeepbose"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/debdeepbose](https://www.linkedin.com/in/debdeep-bose-0a8a47303/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dbworkofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/debdeepbose"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
